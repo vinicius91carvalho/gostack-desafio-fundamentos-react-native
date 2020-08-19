@@ -14,7 +14,6 @@ export const Container = styled.SafeAreaView`
 `;
 
 export const ProductContainer = styled.View`
-  border-radius: 5px;
   margin-top: 60px;
   flex: 1;
   flex-direction: row;
